@@ -49,7 +49,7 @@ The potential of machine learning to transform data into actionable insights ama
 🤖 TensorFlow | 🔥 PyTorch | 📊 Pandas | 🔢 NumPy | 📈 Scikit-learn | 📉 Matplotlib
 
 ### Electrical Engineering Tools
-⚡ Arduino | 🔌 Raspberry Pi | 📊 LTSpice | 🔬 MATLAB/Simulink | 🛠️ PCB Design
+⚡ Arduino | 🔬 MATLAB/Simulink
 
 ### Tools & Technologies
 🐙 Git & GitHub | 🐳 Docker | 💡 VS Code | 🔧 Jupyter Notebooks | 🖥️ Linux
@@ -66,21 +66,6 @@ Feel free to reach out if you want to collaborate on projects, discuss ideas, or
 
 ---
 
-## ⚡ Fun Fact
-
-[Add an interesting fun fact about yourself here - maybe something unique about your hobbies, interests, or an unusual skill!]
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulee24&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulee24&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulee24&theme=radical)
-
----
 
 ## 👀 Profile Views
 
