@@ -58,8 +58,8 @@ The potential of machine learning to transform data into actionable insights ama
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn**: [Add your LinkedIn profile]
-- 📧 **Email**: [Add your email]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/rahul-roy-24238831b/
+- 📧 **Email**: rahul24nov2006@gmail.com
 - 🌐 **Portfolio**: [Add your portfolio website]
 
 Feel free to reach out if you want to collaborate on projects, discuss ideas, or just have a chat about technology!
