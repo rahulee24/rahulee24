@@ -67,18 +67,6 @@ I'm a **Full-Stack Developer** and **Startup Founder** passionate about building
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahulee24&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulee24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/rahul-roy-24238831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
