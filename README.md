@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&width=435&lines=Full-Stack+Developer;AI+%26+RAG+Pipeline+Builder;Startup+Founder+%40+HardJunc;Electrical+Engineer+%7C+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&width=435&lines=Full-AI+%26+RAG+Pipeline+Builder;Startup+Founder+%40+HardJunc;Stack+Developer;Electrical+Engineer+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,7 +77,7 @@ I'm a **Full-Stack Developer** and **Startup Founder** passionate about building
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulee24)
+[![LinkedIn](https://www.linkedin.com/in/rahul-roy-24238831b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulee24)
 
 ---
