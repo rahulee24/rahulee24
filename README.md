@@ -20,6 +20,19 @@ I'm a **Full-Stack Developer** and **Startup Founder** passionate about building
 
 ---
 
+## 🎓 Education
+
+**Indian Institute of Technology, Madras (IIT Madras)**
+🎓 B.Tech in Electrical Engineering | Batch of 2024–2028
+
+- 🏛️ Deputy Placement Coordinator — Electrical Engineering Department
+- 🤝 Student Mentor at **Saathi, IIT Madras** — peer support & mentorship program
+- 🎨 Media Coordinator at **Saarang** — IIT Madras's annual cultural festival
+- 🖨️ Former Deputy Coordinator at the **3D Printing Club, IIT Madras**
+- 🎉 Volunteer at Saarang, IIT Madras (Dec 2024 – Apr 2025)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -69,13 +82,8 @@ I'm a **Full-Stack Developer** and **Startup Founder** passionate about building
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/rahul-roy-24238831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/rahulee24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+[LinkedIn](https://www.linkedin.com/in/rahul-roy-24238831b/) [GitHub](https://github.com/rahulee24)
 
 ---
 
-<div align="center">
-
 *"Building at the intersection of hardware, software, and intelligence."*
-
-</div>
