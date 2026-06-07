@@ -1,78 +1,89 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋 I'm Rahul
 
-## About Me
+<div align="center">
 
-Hello! I'm an enthusiastic learner passionate about **Electrical Engineering**, **Web Development**, and **Machine Learning**. I love exploring the intersection of hardware and software, building innovative web applications, and developing intelligent systems that solve real-world problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&width=435&lines=Full-Stack+Developer;AI+%26+RAG+Pipeline+Builder;Startup+Founder+%40+HardJunc;Electrical+Engineer+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 
-### 🔌 Electrical Engineering
-I'm fascinated by the world of circuits, power systems, and embedded systems. There's something incredibly satisfying about designing systems that interact with the physical world. From microcontrollers to signal processing, I enjoy understanding how electrical components work together to create functional devices.
-
-### 💻 Web Development
-Creating intuitive and responsive web applications is where creativity meets functionality. I love the entire web development stack - from crafting beautiful user interfaces to building robust backend systems. The ability to bring ideas to life through code and make them accessible to users worldwide is what drives my passion in this field.
-
-### 🤖 Machine Learning
-The potential of machine learning to transform data into actionable insights amazes me. I'm constantly learning about neural networks, computer vision, natural language processing, and how AI can be applied to solve complex problems. The challenge of teaching machines to learn and make decisions is both intellectually stimulating and incredibly rewarding.
+</div>
 
 ---
 
-## 📂 My Projects
+## 🚀 About Me
 
-### ⚡ Electrical Engineering Projects
-<!-- Add your electrical engineering project links here -->
-- Project 1: Image Upscaling using convolutional neural network
-- Project 2: Coming soon...
-- Project 3: Coming soon...
+I'm a **Full-Stack Developer** and **Startup Founder** passionate about building products at the intersection of hardware, software, and AI. Currently co-building **[HardJunc](https://github.com/rahulee24/hardjunc-full)** — a pioneering innovation platform that empowers creators across diverse design disciplines.
 
-### 🌐 Web Development Projects
-<!-- Add your web development project links here -->
-- Project 1: Coming soon...
-- Project 2: Coming soon...
-- Project 3: Coming soon...
-
-### 🧠 Machine Learning Projects
-<!-- Add your machine learning project links here -->
-- Project 1: Coming soon...
-- Project 2: Coming soon...
-- Project 3: Coming soon...
+- 🔭 Currently working on **HardJunc** — a creator-focused innovation platform
+- 🤖 Building **Agentic RAG Pipelines** for intelligent document retrieval & AI agents
+- ⚡ Exploring **Electrical Engineering** meets **AI** — from signal processing to neural networks
+- 🌱 Always learning: TypeScript, LLM fine-tuning, scalable system design
+- 📍 Based in **Chennai, India**
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
-🐍 Python | ☕ JavaScript | 💾 C/C++ | 🌐 HTML/CSS | 🔧 MATLAB
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Web Development
-⚛️ React | 🟢 Node.js | 🎨 Tailwind CSS | 🔥 Express.js | 📦 MongoDB
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Machine Learning & Data Science
-🤖 TensorFlow | 🔥 PyTorch | 📊 Pandas | 🔢 NumPy | 📈 Scikit-learn | 📉 Matplotlib
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Electrical Engineering Tools
-⚡ Arduino | 🔬 MATLAB/Simulink
-
-### Tools & Technologies
-🐙 Git & GitHub | 🐳 Docker | 💡 VS Code | 🔧 Jupyter Notebooks | 🖥️ Linux
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
+## 📂 Featured Projects
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/rahul-roy-24238831b/
-- 📧 **Email**: rahul24nov2006@gmail.com
-- 🌐 **Portfolio**: [Add your portfolio website]
-
-Feel free to reach out if you want to collaborate on projects, discuss ideas, or just have a chat about technology!
+| Project | Description | Tech |
+|---|---|---|
+| 🏗️ **[hardjunc-full](https://github.com/rahulee24/hardjunc-full)** | Full-stack platform for HardJunc — empowering creators | TypeScript, React, Node.js |
+| 🤖 **[Agentic-RAG-Pipeline](https://github.com/rahulee24/Agentic-RAG-Pipeline)** | Agentic retrieval-augmented generation pipeline using LLMs | Python, LangChain |
+| 📚 **[rag_implementation](https://github.com/rahulee24/rag_implementation)** | RAG implementation with vector stores & embeddings | Jupyter, Python |
+| 🖼️ **[image-upscaling](https://github.com/rahulee24/image-upscaling)** | Image upscaling using Convolutional Neural Networks | Python, TensorFlow |
+| 🧪 **[opencode-test](https://github.com/rahulee24/opencode-test)** | TypeScript experiments & open-source contributions | TypeScript |
 
 ---
 
+## 📊 GitHub Stats
 
-## 👀 Profile Views
+<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/rahulee24/count.svg)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulee24&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulee24&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulee24)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulee24)
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/rahulee24">rahulee24</a> - Always learning, building, and sharing! ⭐️</i>
+
+*"Building at the intersection of hardware, software, and intelligence."*
+
 </div>
