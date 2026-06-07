@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/index.html?font=Fira+Code&pause=1000&color=6E40C9&width=435&lines=Full-Stack+Developer;AI+%26+RAG+Pipeline+Builder;Startup+Founder+%40+HardJunc;Electrical+Engineer+%7C+ML+Enthusiast)](https://readme-typing-svg.demolab.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&width=500&lines=Full-Stack+Developer;AI+%26+RAG+Pipeline+Builder;Startup+Founder+%40+HardJunc;Electrical+Engineer+%7C+ML+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -81,7 +81,7 @@ I'm a **Full-Stack Developer** and **Startup Founder** passionate about building
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/rahul-roy-24238831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/rahulee24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/rahulee24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ---
