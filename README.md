@@ -27,9 +27,7 @@ I'm a **Full-Stack Developer** and **Startup Founder** passionate about building
 
 - 🏛️ Deputy Placement Coordinator — Electrical Engineering Department
 - 🤝 Student Mentor at **Saathi, IIT Madras** — peer support & mentorship program
-- 🎨 Media Coordinator at **Saarang** — IIT Madras's annual cultural festival
 - 🖨️ Former Deputy Coordinator at the **3D Printing Club, IIT Madras**
-- 🎉 Volunteer at Saarang, IIT Madras (Dec 2024 – Apr 2025)
 
 ---
 
